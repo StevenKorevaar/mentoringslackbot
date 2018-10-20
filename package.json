@@ -1,0 +1,23 @@
+{
+  "name": "mentor_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/mentor_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenKorevaar/mentoringslackbot.git"
+  },
+  "author": "Steven Korevaar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenKorevaar/mentoringslackbot/issues"
+  },
+  "homepage": "https://github.com/StevenKorevaar/mentoringslackbot#readme",
+  "dependencies": {
+    "slackbots": "^0.3.0",
+    "sqlite3": "^4.0.2"
+  }
+}
